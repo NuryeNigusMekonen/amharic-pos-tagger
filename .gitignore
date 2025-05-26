@@ -46,6 +46,8 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
+data/am_att-ud-test.conllu
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
