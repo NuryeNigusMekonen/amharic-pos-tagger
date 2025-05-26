@@ -1,0 +1,8 @@
+embedding_dim: 64
+hidden_dim: 128
+batch_size: 2
+epochs: 10
+learning_rate: 0.001
+vocab_size: 5000
+use_gpu: false
+conllu_file: "data/am_att-ud-test.conllu"
